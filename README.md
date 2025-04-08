@@ -22,7 +22,6 @@ Jeg er Thomas, en informatikk student ved UiT med en sterk interesse for utvikli
 
 ## 🛠️ Teknologier og verktøy jeg bruker
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 
