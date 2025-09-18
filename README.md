@@ -22,7 +22,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasTekie00&repo=mayhem&theme=dark)](https://github.com/ThomasTekie00/mayhem)
 
-
 ## 📫 Kontakt meg
 
 - 📧 Email: thomas@tekie.tech
