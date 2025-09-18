@@ -14,15 +14,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Statistikk
-
-<img src="https://github-readme-stats.vercel.app/api?username=ThomasTekie00&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-
-## 🏆 Favoritt Repositories
-
-<a href="https://github.com/ThomasTekie00/mayhem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasTekie00&repo=mayhem&theme=dark&cache_seconds=1800" alt="Mayhem Repository" />
-</a>
 
 ## 📫 Kontakt meg
 
