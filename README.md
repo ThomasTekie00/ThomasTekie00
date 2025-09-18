@@ -16,11 +16,13 @@
 
 ## 📊 GitHub Statistikk
 
-![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasTekie00&show_icons=true&theme=dark&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ThomasTekie00&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
 ## 🏆 Favoritt Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasTekie00&repo=mayhem&theme=dark)](https://github.com/ThomasTekie00/mayhem)
+<a href="https://github.com/ThomasTekie00/mayhem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasTekie00&repo=mayhem&theme=dark&cache_seconds=1800" alt="Mayhem Repository" />
+</a>
 
 ## 📫 Kontakt meg
 
