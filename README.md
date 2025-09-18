@@ -2,8 +2,6 @@
 
 ## 🎓 Om meg
 - 📚 Andreårs informatikkstudent ved UiT - Norges arktiske universitet
-- 💻 Brenner for programmering og teknologi
-- 🌱 Lærer alltid noe nytt og jobber med spennende prosjekter
 - 🔗 Sjekk ut min nettside: [tekie.tech](https://tekie.tech)
 
 ## 🛠️ Teknologier & Verktøy
@@ -20,21 +18,10 @@
 
 ![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasTekie00&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasTekie00&layout=compact&theme=dark)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThomasTekie00&theme=dark)](https://git.io/streak-stats)
-
-## 📈 Commit Aktivitet
-
-![Thomas' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThomasTekie00&theme=react-dark)
-
 ## 🏆 Favoritt Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasTekie00&repo=Assign1&theme=dark)](https://github.com/ThomasTekie00/Assign1)
+[![ReadMe Card](https://github.com/ThomasTekie00/mayhem)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasTekie00&repo=lenketliste-med-gc&theme=dark)](https://github.com/ThomasTekie00/lenketliste-med-gc)
 
 ## 📫 Kontakt meg
 
