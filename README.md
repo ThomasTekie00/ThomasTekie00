@@ -19,7 +19,7 @@
 
 - 📧 Email: thomas@tekie.tech
 - 🌐 Nettside: [tekie.tech](https://tekie.tech)
-- 📍 Basert i Norge 🇳🇴
+
 
 ---
 
